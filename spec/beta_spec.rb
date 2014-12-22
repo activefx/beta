@@ -1,9 +1,9 @@
 require 'spec_helper'
 
-describe "Beta" do
+RSpec.describe Beta do
 
   it "must be defined" do
-    Beta::VERSION.should_not be_nil
+    expect(Beta::VERSION).not_to be_nil
   end
 
 end

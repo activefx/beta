@@ -1,4 +1,4 @@
-Copyright (c) 2012 Matthew Solt
+Copyright (c) 2014 Matthew Solt
 
 MIT License
 
